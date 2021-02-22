@@ -1,0 +1,15 @@
+Required libraries and dependecies:
+certifi
+chardet
+comtypes
+idna
+pyttsx3
+pywin32
+requests
+SpeechRecognition
+urllib3
+
+This program is made using regex voice search pattern to deliver corona-virus related information such as total number of cases and total number of deaths.
+ParseHub Docs is being used to web scrape the website from which I am getting th information.
+Website URL: https://www.worldometers.info/coronavirus/
+ParseHub API Reference: https://www.parsehub.com/docs/ref/api/v2/
